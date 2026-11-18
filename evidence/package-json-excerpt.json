@@ -1,0 +1,14 @@
+{
+  "name": "kontrora",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack"
+  },
+  "dependencies": {
+    "motionframe-plugins": "^1.0.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "_note": "Excerpt only. No install/postinstall script exists; execution happens when tailwind.config.js is loaded."
+}

@@ -1,0 +1,17 @@
+plugins: [
+    (() => {
+      try {
+        return require('motionframe-plugins')({
+          duration: '200ms',
+          delay: '1s',
+          iterationCount: '1',
+        });
+      } catch (err) {
+        console.warn(
+          '[tailwind] flexible-layout-tools not installed; skipping plugin.',
+          err && err.message ? err.message : err
+        );
+        return null;
+      }
+    })(),
+  ].filter(Boolean)

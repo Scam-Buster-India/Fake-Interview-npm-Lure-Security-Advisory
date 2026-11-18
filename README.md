@@ -76,21 +76,23 @@ If anything matches: **do not run** `npm install`, `npm run dev` or `npm run bui
 
 ## Report it
 
-Step-by-step with ready-made text in [`REPORTING.md`](REPORTING.md).
+Who to report to and ready-made text you can paste: [`REPORTING.md`](REPORTING.md).
 
 - 📦 **npm:** package page of `motionframe-plugins` → *Report malware*
 - 🇮🇳 **India:** [cybercrime.gov.in](https://cybercrime.gov.in) · helpline **1930** · CERT-In `incident@cert-in.org.in`
 - 💼 The platform where you were contacted (Fiverr / LinkedIn / etc.)
 
-### Report status (updated by maintainer)
+### Disclosure status
+
+Reports have been or are being sent to the recipients below. Status is updated here as responses arrive.
 
 | Recipient | Status | Date |
 |---|---|---|
-| npm Security | ☐ submitted | |
-| Fiverr Trust & Safety | ☐ submitted | |
-| CERT-In | ☐ submitted | |
-| Google Drive (abuse) | ☐ submitted | |
-| OpenSSF malicious-packages | ☐ submitted | |
+| npm Security | Pending | |
+| Fiverr Trust & Safety | Pending | |
+| CERT-In | Pending | |
+| Google Drive (abuse) | Pending | |
+| OpenSSF malicious-packages | Pending | |
 
 ## Related public research (same technique family)
 

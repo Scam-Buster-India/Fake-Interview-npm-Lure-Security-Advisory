@@ -1,0 +1,13 @@
+# Published files (in this folder) are listed by the `sha256sum` run below.
+# Withheld artifacts are listed for proof-of-possession only (see README.md in this folder).
+cddec7017154aebf01b317099add0b2d0adc2d1a964f601816f03782db00a743  [WITHHELD] src/config.js (inside @motionlib/framer-motion@1.0.6)
+b7418afce88c51717fd134ab82eb0a7571fc402c4286ebdc4404a67b78af5e6d  [WITHHELD] motionlib-framer-motion-1.0.6.tgz
+2db16f7d821af983b39be1ab2a838a4cc13bf038fab710dc6047177a6f6ed227  [WITHHELD] full-stack-assignment.7z
+
+# --- published files ---
+a06a6f7345211cf73aa96bb3a58e2a24ed88d447f1afe6bbf72bff0ed967c893  tailwind-plugin-load.txt
+6fea97632739c07a7992b4d2f49e12719f06912567e594455ebc2762382c2059  decoded-endpoints.txt
+ad14708d8f758bf1b5482ebad4ff2dfb8957cfb8a97e1c9fc4d0062ab6ac31a8  obfuscated-runtime-excerpt.txt
+3cc1bea60fa9eb1fcbd0f8a11eabaee710f32a38f4bcea6c379489dee85a059a  npmrc-redacted.txt
+27c7e242915f02e337815e4dbf91e7f16b61f24cdb5b31eeee4dfa2043de5298  private-package-metadata.json
+62343908c28a9045dac2f6851e2f903dd7f7e75a20a637e1583a8ac77e2356f4  package-json-excerpt.json

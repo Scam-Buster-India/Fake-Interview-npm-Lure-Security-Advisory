@@ -1,0 +1,6 @@
+Static decode of the package-owned rotation+base64 logic:
+
+A6MTIyNA==MjE2LjEyNi4yMzEuNz -> 216.126.231.70:1224
+IxNToxMjI0MTUzLjc1Ljg4Lj -> 153.75.88.215:1224
+
+The code appends /debugCheck and sends a POST request.

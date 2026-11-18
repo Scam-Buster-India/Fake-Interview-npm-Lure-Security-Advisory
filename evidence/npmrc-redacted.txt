@@ -1,0 +1,9 @@
+//registry.npmjs.org/:_authToken=[REDACTED — revoke/rotate immediately]
+# Suppress ALL warnings and messages
+audit=false
+fund=false
+loglevel=error
+
+# Optional: Speed up installs
+prefer-offline=true
+progress=false
